@@ -19,7 +19,7 @@ ShoppingList.create('beans', 2);
 ShoppingList.create('tomatoes', 3);
 ShoppingList.create('peppers', 4);
 
-//new endpoint
+
 Recipes.create('chocolate milk', ['cocoa', 'milk', 'sugar']);
 
 // when the root of this router is called with GET, return
